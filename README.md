@@ -12,10 +12,10 @@ ThinkerAGI is a autogpt model based on the BabyAGI project. It is a self critici
     <img src="thinkeragi.png" alt="Logo">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">ThinkerAGI</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A person who always thinks has nothing to think but thoughts.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
