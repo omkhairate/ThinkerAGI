@@ -17,14 +17,14 @@ ThinkerAGI is a autogpt model based on the BabyAGI project. It is a self critici
   <p align="center">
     A person who always thinks has nothing to think but thoughts.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/omkhairate/ThinkerAGI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/omkhairate/ThinkerAGI">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/omkhairate/ThinkerAGI/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/omkhairate/ThinkerAGI/issues">Request Feature</a>
   </p>
 </div>
 
@@ -61,28 +61,16 @@ ThinkerAGI is a autogpt model based on the BabyAGI project. It is a self critici
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+With the advent of ChatGPT, we are ever closer to the development of artificial general intelligence. This project is an attempt to give AI a philosophical thought process in order to ponder, crtiticize and come up with modern solutions to age old philosophical problems. 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Of course, this project is no where near complete but just a beginning in vast space of autogpt. For any features or suggestions please feel free to use the issues tab.
 
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+* [![langchain][langchain]][langchain-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
